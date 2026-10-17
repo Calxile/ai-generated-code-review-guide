@@ -295,9 +295,3 @@ When generation is cheap, judgment becomes the scarce resource. The developers w
 Use AI for what it does well. Verify what it produces. Keep learning the fundamentals underneath. Do those three things and these tools stop being a risk to your skills and become a multiplier for them.
 
 Thank you again to HackerEarth and to Sreejith PV sir for this opportunity. It was exciting, and I learned a lot.
-
----
-
-**Suggested repository name:** `ai-generated-code-review-guide`
-
-**Suggested topics:** `ai-coding`, `vibe-coding`, `code-review`, `code-quality`, `prompt-engineering`, `vibecodearena`, `angular`, `fastapi`, `learn-to-code`
